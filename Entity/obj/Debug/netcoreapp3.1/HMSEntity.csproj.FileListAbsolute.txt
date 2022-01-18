@@ -1,0 +1,9 @@
+E:\DreamStepz\RecapDemo\Entity\bin\Debug\netcoreapp3.1\HMSEntity.deps.json
+E:\DreamStepz\RecapDemo\Entity\bin\Debug\netcoreapp3.1\HMSEntity.dll
+E:\DreamStepz\RecapDemo\Entity\bin\Debug\netcoreapp3.1\HMSEntity.pdb
+E:\DreamStepz\RecapDemo\Entity\obj\Debug\netcoreapp3.1\HMSEntity.csprojAssemblyReference.cache
+E:\DreamStepz\RecapDemo\Entity\obj\Debug\netcoreapp3.1\HMSEntity.AssemblyInfoInputs.cache
+E:\DreamStepz\RecapDemo\Entity\obj\Debug\netcoreapp3.1\HMSEntity.AssemblyInfo.cs
+E:\DreamStepz\RecapDemo\Entity\obj\Debug\netcoreapp3.1\HMSEntity.csproj.CoreCompileInputs.cache
+E:\DreamStepz\RecapDemo\Entity\obj\Debug\netcoreapp3.1\HMSEntity.dll
+E:\DreamStepz\RecapDemo\Entity\obj\Debug\netcoreapp3.1\HMSEntity.pdb

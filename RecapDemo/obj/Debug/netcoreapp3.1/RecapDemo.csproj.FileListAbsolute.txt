@@ -1,0 +1,13 @@
+E:\DreamStepz\RecapDemo\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.exe
+E:\DreamStepz\RecapDemo\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.deps.json
+E:\DreamStepz\RecapDemo\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.runtimeconfig.json
+E:\DreamStepz\RecapDemo\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.runtimeconfig.dev.json
+E:\DreamStepz\RecapDemo\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.dll
+E:\DreamStepz\RecapDemo\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.pdb
+E:\DreamStepz\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.csprojAssemblyReference.cache
+E:\DreamStepz\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.AssemblyInfoInputs.cache
+E:\DreamStepz\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.AssemblyInfo.cs
+E:\DreamStepz\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.csproj.CoreCompileInputs.cache
+E:\DreamStepz\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.dll
+E:\DreamStepz\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.pdb
+E:\DreamStepz\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.genruntimeconfig.cache

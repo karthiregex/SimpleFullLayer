@@ -1,0 +1,12 @@
+E:\DreamStepz\RecapDemo\BusinessLayer2\bin\Debug\netcoreapp3.1\BusinessLayer2.deps.json
+E:\DreamStepz\RecapDemo\BusinessLayer2\bin\Debug\netcoreapp3.1\BusinessLayer2.dll
+E:\DreamStepz\RecapDemo\BusinessLayer2\bin\Debug\netcoreapp3.1\BusinessLayer2.pdb
+E:\DreamStepz\RecapDemo\BusinessLayer2\bin\Debug\netcoreapp3.1\HMSEntity.dll
+E:\DreamStepz\RecapDemo\BusinessLayer2\bin\Debug\netcoreapp3.1\HMSEntity.pdb
+E:\DreamStepz\RecapDemo\BusinessLayer2\obj\Debug\netcoreapp3.1\BusinessLayer2.csprojAssemblyReference.cache
+E:\DreamStepz\RecapDemo\BusinessLayer2\obj\Debug\netcoreapp3.1\BusinessLayer2.AssemblyInfoInputs.cache
+E:\DreamStepz\RecapDemo\BusinessLayer2\obj\Debug\netcoreapp3.1\BusinessLayer2.AssemblyInfo.cs
+E:\DreamStepz\RecapDemo\BusinessLayer2\obj\Debug\netcoreapp3.1\BusinessLayer2.csproj.CoreCompileInputs.cache
+E:\DreamStepz\RecapDemo\BusinessLayer2\obj\Debug\netcoreapp3.1\BusinessLayer2.csproj.CopyComplete
+E:\DreamStepz\RecapDemo\BusinessLayer2\obj\Debug\netcoreapp3.1\BusinessLayer2.dll
+E:\DreamStepz\RecapDemo\BusinessLayer2\obj\Debug\netcoreapp3.1\BusinessLayer2.pdb
